@@ -1,7 +1,6 @@
 {
   "name": "mp2-responsive-website-thru-reactjs",
   "homepage": "https://rusheyes.github.io/MP2New2",
-  "blogpage": "https://rusheyes.github.io/blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
